@@ -1,0 +1,30 @@
+{
+  "name": "@burakkggul/create-drum-kit",
+  "version": "1.0.0",
+  "description": "Drum kit builder command line interface.",
+  "bin": {
+    "@burakkggul/create-drum-kit": "bin/create-drum-kit",
+    "create-drum-kit": "bin/create-drum-kit"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/burakkggul/create-drum-kit.git"
+  },
+  "keywords": [
+    "Create",
+    "Drum",
+    "Kit"
+  ],
+  "author": "Burak GÜL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/burakkggul/create-drum-kit/issues"
+  },
+  "homepage": "https://github.com/burakkggul/create-drum-kit"
+}
