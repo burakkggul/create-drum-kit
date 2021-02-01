@@ -1,5 +1,7 @@
 # Drum Kit Creator
 
+![Node.js Package](https://github.com/burakkggul/create-drum-kit/workflows/Node.js%20Package/badge.svg)
+
 Drum kit builder command line interface. You can create a drum kit with this command line interface.
 
 ## Installation
