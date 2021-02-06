@@ -1,6 +1,6 @@
 {
   "name": "@burakkggul/create-drum-kit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Drum kit builder command line interface.",
   "bin": {
     "@burakkggul/create-drum-kit": "bin/create-drum-kit",
