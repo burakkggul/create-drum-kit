@@ -6,6 +6,12 @@ Drum kit builder command line interface. You can create a drum kit with this com
   <a href="https://github.com/burakkggul/create-drum-kit/packages">
     <img src="https://github.com/burakkggul/create-drum-kit/workflows/Node.js%20Package/badge.svg"> </img>
   </a>
+  <a href="https://github.com/burakkggul/create-drum-kit">
+    <img src="https://img.shields.io/npm/l/@burakkggul/create-drum-kit"> </img>
+  </a>
+  <a href="https://github.com/burakkggul/create-drum-kit">
+    <img src="https://img.shields.io/npm/dw/@burakkggul/create-drum-kit"> </img>
+  </a>
 </p>
 <p align="center">
 <a href="https://drum.burakgul.com.tr">Demo</a>
